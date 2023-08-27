@@ -1,6 +1,0 @@
-{{#user}}
-Name: Rohit Belwal
-Skills: Linux,Docker,jenkins,github action,Ansible ,kubernetes,AWS Cloud,terraform,tomcat,nginx,apache,bash scripting,python,Networking.
-Email: belwalrohit642@gmail.com
-{{/user}}
-
